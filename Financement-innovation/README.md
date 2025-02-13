@@ -12,6 +12,12 @@ Ce projet m’a permis de développer mes connaissances en :
 - ✅ **Traitement et analyse de bases de données avec Python**
 - ✅ **Approfondissement de ma compréhension des théories économiques de Paul Krugman**
 
+## 📂 Contenu du répertoire
+  - **📊 Data/** → Contient les fichiers de données utilisés pour l'analyse (data_cir_10_lignes.ods, data_cir_complet.ods).
+  - **📑 Notebook/** → Fichier Jupyter Notebook montrant les étapes de l'analyse et les visualisations.
+  - **📄 Résumé/** → Un résumé du projet sous format PDF (Resume.pdf).
+  - **📊 Diapo/** → Présentation PDF avec les résultats (Diapo.pdf).
+
 ## 📊 Sources des données
 
 Les données utilisées pour cette analyse proviennent de la base suivante :
