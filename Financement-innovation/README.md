@@ -13,8 +13,10 @@ Ce projet m’a permis de développer mes connaissances en :
 - ✅ **Approfondissement de ma compréhension des théories économiques de Paul Krugman**
 
 ## 📂 Contenu du répertoire
-  - **📊 Data/** → Contient les fichiers de données utilisés pour l'analyse (data_cir_10_lignes.ods, data_cir_complet.ods).
+
+  - **📊 Data/** → Contient les fichiers de données utilisés pour l'analyse (data_cir_10_lignes.ods, data_cir_complet.ods, data_cir_csv).
   - **📑 Notebook/** → Fichier Jupyter Notebook montrant les étapes de l'analyse et les visualisations.
+  - **🌍 Cartes/** → Contient des captures d'écran des cartes générées en HTML à partir du code dans le dossier **Notebook**.
   - **📄 Résumé/** → Un résumé du projet sous format PDF (Resume.pdf).
   - **📊 Diapo/** → Présentation PDF avec les résultats (Diapo.pdf).
 
