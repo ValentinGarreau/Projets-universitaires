@@ -9,12 +9,6 @@ import folium # Pour la cartographie
 from itertools import cycle
 import branca # legende carto (pour le html)
 
-# Définir un nouveau répertoire de travail
-new_directory = "C:/Users/garre/Desktop/Moi/Fac/M2/financement_innovation/projet"
-
-# Changer de répertoire de travail
-os.chdir(new_directory)
-
 
                     # CHARGEMENT DES DONNEES
 
