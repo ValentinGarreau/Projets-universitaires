@@ -1,5 +1,8 @@
 # Arbitrages économiques dans le financement des jeunes entreprises innovantes : une comparaison entre l’Île-de-France et la région PACA 📊💡
 
+Ce projet analyse les **disparités territoriales** dans l’accès aux financements publics et privés par les jeunes entreprises innovantes dans deux régions spécifiques : l’Île-de-France et la région PACA. L’analyse se base sur des données économiques pour comprendre comment les investissements sont distribués et quels sont les facteurs influençant ces décisions économiques.
+
+
 Dans le cadre de mon Master 2 en **Économie – Expertise et Analyse des Données Économiques**, j’ai eu l’opportunité de suivre un cours sur le financement de l’innovation. À cette occasion, avec **Dan Sellem**, nous avons mené une étude approfondie sur les **arbitrages économiques dans le financement des jeunes entreprises innovantes**.
 
 Cette analyse met en lumière les **disparités territoriales** dans l’accès aux capitaux publics et privés entre l’Île-de-France et la région PACA. Grâce à une exploitation de bases de données avec une approche analytique en **Python**, ainsi qu’à une mobilisation de la **littérature économique**, autour des travaux de **Paul Krugman**.
