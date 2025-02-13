@@ -12,6 +12,13 @@ Ce projet m’a permis de développer mes connaissances en :
 - ✅ **Traitement et analyse de bases de données avec Python**
 - ✅ **Approfondissement de ma compréhension des théories économiques de Paul Krugman**
 
+## 📊 Sources des données
+
+Les données utilisées pour cette analyse proviennent de la base suivante :
+
+- **Nom de la base de données** : Organismes, Experts, Bureaux de style, Stylistes agréés Crédit d'impôt recherche (CIR)
+- **Source** : [Data.gouv.fr](https://www.data.gouv.fr/fr/datasets/organismes-experts-bureaux-de-style-stylistes-agrees-credit-dimpot-recherche-cir/)
+
 ## 🙏 Remerciements
 
 Un grand merci à notre professeur, **Mme Sophie Pommet**, pour son enseignement et ses précieux conseils !
