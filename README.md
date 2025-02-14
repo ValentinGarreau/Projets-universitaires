@@ -1,6 +1,6 @@
 # 🎓 **Projets universitaires**
 
-Ce répertoire contient mon mémoire portant sur **une analyse empirique de la soutenabilité des finances publiques de l’Allemagne et de l’Italie**, ainsi que les projets réalisés durant mes études. Chaque dossier correspond à un projet spécifique.
+Ce répertoire contient mon **mémoire** portant sur *une analyse empirique de la soutenabilité des finances publiques de l’Allemagne et de l’Italie*, ainsi que les **projets réalisés durant mes études**. Chaque dossier correspond à un projet spécifique.
 
 ---
 
