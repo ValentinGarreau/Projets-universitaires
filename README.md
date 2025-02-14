@@ -14,7 +14,8 @@ L’analyse repose sur des **tests de stationnarité** du solde primaire, de la 
 - 📑 **Rapport/** → Contient la version écrite de mon mémoire.  
 - 📊 **Diapo/** → Présentations PowerPoint liées à mon mémoire.  
 - 📑 **Sommaire du mémoire**  
-- 🔗 **Accès au projet** : [Mémoire](lien_vers_le_projet)
+- 🔗 **Accès au Mémoire** : [Mémoire](https://github.com/ValentinGarreau/Projets-universitaires/tree/main/M%C3%A9moire)
+
 
 🙏 **Remerciements**  
 Un grand merci à ma directrice de mémoire, **Mme. Anna TYKHONENKO**, pour son accompagnement et ses précieux conseils tout au long de ce travail.
