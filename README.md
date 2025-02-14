@@ -39,5 +39,5 @@ Ce projet, réalisé avec **Dan Sellem**, analyse les disparités territoriales 
 🙏 **Remerciements**  
 Un grand merci à notre professeur, **Mme Sophie POMMET**, pour son enseignement et ses précieux conseils !
 
-📜 **Licence**  
+## 📜 **Licence**  
 Ce projet est sous la licence **CC BY-NC-ND 4.0**. Vous pouvez visualiser le code à des fins personnelles et non commerciales, mais toute modification ou redistribution est interdite.
