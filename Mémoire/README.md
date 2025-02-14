@@ -1,7 +1,7 @@
 # 📚 Mémoire : Analyse empirique de la soutenabilité des finances publiques de l’Allemagne et de l’Italie 📊💶
 
-Dans le cadre de mon **Master 2 en Économie – Expertise et Analyse des Données Économiques**, j’ai réalisé un mémoire portant sur *la soutenabilité des finances publiques de l’Allemagne et de l’Italie*. Ce travail compare la gestion des finances publiques de ces deux pays : l'*Allemagne*, réputée pour sa rigueur budgétaire, et l’*Italie*, l'un des pays les plus endettés de l’Union européenne.  
-L’analyse repose sur des **tests de stationnarité** du *solde primaire*, de la *dette publique*, ainsi que des *dépenses* et recettes publiques* pour la période de **1950 à 2022**. Un **test de cointégration** des *dépenses et recettes publiques* permet d’ajouter une nuance importante dans l’évaluation de la soutenabilité en distinguant une soutenabilité forte d’une soutenabilité faible. Cette étude vise à évaluer la viabilité à long terme des finances publiques des deux pays. Le traitement des données, ainsi que l’exécution des tests de stationnarité et de cointégration, ont été réalisés avec le logiciel **EViews**.
+Dans le cadre de mon **Master 2 en Économie – Expertise et Analyse des Données Économiques**, j’ai réalisé un mémoire portant sur **la soutenabilité des finances publiques de l’Allemagne et de l’Italie**. Ce travail compare la gestion des finances publiques de ces deux pays : l'Allemagne, réputée pour sa rigueur budgétaire, et l’Italie, l'un des pays les plus endettés de l’Union européenne.  
+L’analyse repose sur des **tests de stationnarité** du solde primaire, de la dette publique, ainsi que des dépenses et recettes publiques pour la période de **1950 à 2022**. Un **test de cointégration** des dépenses et recettes publiques permet d’ajouter une nuance importante dans l’évaluation de la soutenabilité en distinguant une soutenabilité forte d’une soutenabilité faible. Cette étude vise à évaluer la viabilité à long terme des finances publiques des deux pays. Le traitement des données, ainsi que l’exécution des tests de stationnarité et de cointégration, ont été réalisés avec le logiciel **EViews**.
 
 
 ## 📌 Compétences acquises au cours de ce mémoire
@@ -49,7 +49,7 @@ Voici une présentation générale des sections de mon mémoire :
 9. **Annexes**  
     - Annexes diverses (graphiques, résultats des tests, etc.).
   
-💻 **Outils utilisés pour l'analyse**  
+## 💻 **Outils utilisés pour l'analyse**  
 Les tests de stationnarité (racines unitaires) et de cointégration des séries ont été réalisés à l’aide du logiciel **EViews**. Ce logiciel a permis de traiter les séries temporelles, d’effectuer les tests nécessaires et de visualiser les résultats.
  
 ## 📊 Sources des données
