@@ -36,7 +36,7 @@ Ce projet, réalisé avec **Dan Sellem**, analyse les disparités territoriales 
 - 🌍 **Cartes/** → Captures d'écran des cartes générées en HTML.  
 - 📄 **Résumé/** → Résumé du projet en PDF.  
 - 📊 **Diapo/** → Présentation PDF avec les résultats.  
-- 🔗 **Accès au projet** : [Financement-innovation](lien_vers_le_projet)
+- 🔗 **Accès au projet** : [Financement-innovation](https://github.com/ValentinGarreau/Projets-universitaires/tree/main/Financement-innovation)
 
 🙏 **Remerciements**  
 Un grand merci à notre professeur, **Mme Sophie POMMET**, pour son enseignement et ses précieux conseils !
